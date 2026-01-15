@@ -13,6 +13,8 @@ data/pessoas.txt
 *.iml
 *.ipr
 *.iws
+.classpath
+.project
 
 # Sistema Operacional
 .DS_Store
