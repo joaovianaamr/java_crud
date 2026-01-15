@@ -12,6 +12,7 @@
 .classpath
 .project
 .metadata/
+.cursorrules
 
 # Arquivos do sistema operacional
 .DS_Store
