@@ -1,0 +1,43 @@
+# Regras do Projeto CRUD Java
+
+## Stack Tecnológica
+- **Linguagem**: Java puro (sem frameworks)
+- **Estrutura**: Projeto bem estruturado seguindo boas práticas de orientação a objetos
+- **Persistência**: Arquivo de texto (.txt) para armazenamento de dados
+
+## Finalidade
+- **Propósito**: Aprendizado da linguagem Java
+- **Foco**: Compreensão de conceitos fundamentais de OOP, manipulação de arquivos e estruturas de dados
+
+## Objetivo do Projeto
+- Implementar um CRUD (Create, Read, Update, Delete) simples
+- Dados a serem manipulados:
+  - Nome
+  - Email
+  - Telefone
+- Interface: Menu interativo no terminal
+
+## Requisitos Técnicos
+- Não utilizar frameworks externos
+- Código bem organizado e modular
+- Tratamento de erros adequado
+- Validação de dados de entrada
+- Persistência em arquivo .txt
+
+## Documentação
+- Documentar todo o raciocínio de código em arquivos Markdown (.md)
+- Lógicas diferentes devem ser separadas em documentos distintos
+- Incluir explicações sobre arquitetura, decisões de design e fluxos de execução
+
+## Estrutura de Código
+- Separar responsabilidades em classes distintas
+- Seguir princípios SOLID
+- Código limpo e legível
+- Comentários explicativos quando necessário
+
+## Controle de Versão
+- **Commits**: Apenas realizar commits quando explicitamente solicitado pelo usuário
+- **Padrão de Commits**: Seguir padrões de mercado (Conventional Commits, commit messages descritivos)
+- **Divisão de Commits**: Commits devem ser divididos em partes lógicas (por arquivo, pasta, funcionalidade, etc.)
+- **Fluxo de Trabalho**: Simular o fluxo de um projeto real, onde implementações são feitas incrementalmente
+- Cada commit deve representar uma mudança coesa e compreensível
