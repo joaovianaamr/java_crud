@@ -1,31 +1,25 @@
 # Arquivos compilados
 *.class
-*.jar
-*.war
-*.ear
+bin/
+out/
+target/
 
-# Arquivos do IDE
+# Arquivo de dados (pode ser versionado ou não, dependendo da necessidade)
+data/pessoas.txt
+
+# IDEs
 .idea/
-*.iml
 .vscode/
-.settings/
-.classpath
-.project
-.metadata/
-.cursorrules
+*.iml
+*.ipr
+*.iws
 
-# Arquivos do sistema operacional
+# Sistema Operacional
 .DS_Store
 Thumbs.db
-desktop.ini
 
-# Arquivos de log
+# Logs
 *.log
 
-# Arquivos temporários
-*.tmp
-*.temp
-*~
-
-# Arquivos de dados do projeto (se necessário, remova esta linha)
-# dados.txt
+# Scripts de build (específicos do ambiente local)
+*.bat
