@@ -23,3 +23,6 @@ Thumbs.db
 
 # Scripts de build (específicos do ambiente local)
 *.bat
+
+# Configurações do Cursor IDE
+.cursorrules
